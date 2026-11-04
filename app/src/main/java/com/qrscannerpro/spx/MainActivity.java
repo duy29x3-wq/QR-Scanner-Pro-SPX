@@ -28,7 +28,7 @@ import java.util.*;
 import java.util.regex.*;
 import org.json.*;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends Activity {
 
     private LinearLayout root;
     private TextView output, history;
